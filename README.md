@@ -1,2 +1,2 @@
 # CreditCards
-The purpose of this project is to study linked lists.
+The purpose of this project was to study and understand linked lists.
